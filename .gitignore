@@ -1,0 +1,16 @@
+__pycache__
+__pycache__/
+*.ipynb
+model/
+*.empty
+.ipynb_checkpoints
+.ipynb_checkpoints/
+ckpt/
+temp*
+structbert*
+structbert/*
+*.pt
+*.tsv
+PDTB/PDTB_3.0/*
+*.json
+nohup*
